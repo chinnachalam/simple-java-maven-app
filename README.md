@@ -16,3 +16,5 @@ the "Deliver" stage of your Pipeline.
 
 
 updated readme file to check jenins build trigger
+
+updated text on 13:40
